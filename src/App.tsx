@@ -15,7 +15,7 @@ import {
 } from "@mui/material";
 import { PhotoCamera } from "@mui/icons-material";
 
-const array = new Array(10);
+const array = new Array(5);
 array.fill(0);
 
 function App() {
