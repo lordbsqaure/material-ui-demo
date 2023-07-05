@@ -95,7 +95,7 @@ function App() {
             Footer
           </Typography>
           <Typography variant="subtitle1" align="center" color="textSecondary">
-            some good footer
+            some good footer down
           </Typography>
         </footer>
       </main>
